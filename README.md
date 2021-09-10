@@ -1,6 +1,11 @@
 # Summer-Olympics
 This respository is having all the python codes with csv file for Data Analysis of Summer Olympics from csv file during my ETG AI/ML Internship.
 
+Software Used: Jupyter Notebook
+
+CSV file: summer.csv
+Python file: summer.ipynb
+
 #### It answers to the following questions:
 1. In how many cities Summer Olympics is held so far?
 2. Which sport is having most number of Gold Medals so far? (Top 5)
